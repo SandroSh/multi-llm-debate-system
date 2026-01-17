@@ -1,0 +1,13 @@
+openai        
+anthropic     
+google-genai   
+
+pydantic       
+pandas         
+numpy
+
+python-dotenv         
+tenacity             
+tqdm               
+
+matplotlib
