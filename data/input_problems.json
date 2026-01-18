@@ -1,0 +1,180 @@
+[
+  {
+    "id": 1,
+    "category": "Math",
+    "question": "In how many ways can you tile a 3x8 rectangle with 2x1 dominoes?",
+    "correct_answer": "71",
+    "metadata": "Combinatorics - requires recursive relation or state-space analysis."
+  },
+  {
+    "id": 2,
+    "category": "Math",
+    "question": "What is the remainder when 3^100 is divided by 7?",
+    "correct_answer": "4",
+    "metadata": "Number Theory - Fermat's Little Theorem application."
+  },
+  {
+    "id": 3,
+    "category": "Math",
+    "question": "Find the number of positive integers n < 1000 such that the sum of the digits of n is 9.",
+    "correct_answer": "55",
+    "metadata": "Combinatorics - Stars and Bars with constraints."
+  },
+  {
+    "id": 4,
+    "category": "Math",
+    "question": "Evaluate the infinite sum: 1/2 + 2/4 + 3/8 + 4/16 + ... + n/(2^n).",
+    "correct_answer": "2",
+    "metadata": "Calculus/Sequences - Arithmetico-geometric series."
+  },
+  {
+    "id": 5,
+    "category": "Math",
+    "question": "A fair coin is flipped until 3 consecutive heads appear. What is the expected number of flips?",
+    "correct_answer": "14",
+    "metadata": "Probability - Markov chain or recursive expectation."
+  },
+  {
+    "id": 6,
+    "category": "Math",
+    "question": "Find the smallest positive integer n such that n! is divisible by 1000.",
+    "correct_answer": "15",
+    "metadata": "Number Theory - Prime factorization of factorials."
+  },
+  {
+    "id": 7,
+    "category": "Math",
+    "question": "How many paths are there from (0,0) to (4,4) on a grid moving only right or up, without passing through (2,2)?",
+    "correct_answer": "34",
+    "metadata": "Combinatorics - Path counting with exclusion."
+  },
+
+  {
+    "id": 8,
+    "category": "Physics",
+    "question": "A ladder of length L and mass M leans against a frictionless vertical wall at an angle theta with the ground. What is the minimum coefficient of static friction (mu) required at the ground to prevent the ladder from slipping?",
+    "correct_answer": "1 / (2 * tan(theta))",
+    "metadata": "Statics - Torque and force balance."
+  },
+  {
+    "id": 9,
+    "category": "Physics",
+    "question": "A car travels from A to B at 40 mph and returns from B to A at 60 mph. What is the average speed for the entire trip?",
+    "correct_answer": "48 mph",
+    "metadata": "Kinematics - Harmonic mean vs arithmetic mean trap."
+  },
+  {
+    "id": 10,
+    "category": "Physics",
+    "question": "A block of ice floats in a beaker of water filled to the brim. When the ice melts, does the water overflow, stay the same, or drop?",
+    "correct_answer": "Stay the same",
+    "metadata": "Archimedes' Principle - Conceptual trap."
+  },
+  {
+    "id": 11,
+    "category": "Physics",
+    "question": "If you throw a ball horizontally at 10 m/s from a height of 20m, and simultaneously drop a ball from the same height, which hits the ground first? (Assume no air resistance, g=9.8 m/s^2)",
+    "correct_answer": "Both hit at the same time",
+    "metadata": "Kinematics - Independence of orthogonal motion."
+  },
+  {
+    "id": 12,
+    "category": "Physics",
+    "question": "Calculate the escape velocity of Earth in km/s (G=6.67e-11, M=5.97e24 kg, R=6371 km).",
+    "correct_answer": "11.18 km/s",
+    "metadata": "Astrophysics - Formula application and unit conversion."
+  },
+  {
+    "id": 13,
+    "category": "Physics",
+    "question": "A circuit has three 10-ohm resistors in parallel connected to a 10V battery. What is the total current leaving the battery?",
+    "correct_answer": "3 Amps",
+    "metadata": "Electronics - Ohm's law and parallel resistance."
+  },
+
+  {
+    "id": 14,
+    "category": "Logic",
+    "question": "The Zebra Puzzle: 5 houses, 5 colors, 5 nationalities, 5 drinks, 5 smokes, 5 pets. Clues: 1. Brit lives in Red. 2. Swede has Dog. 3. Dane drinks Tea. 4. Green house is left of White. 5. Green owner drinks Coffee. 6. Pall Mall smoker has Birds. 7. Yellow owner smokes Dunhill. 8. Middle house owner drinks Milk. 9. Norwegian in 1st house. 10. Blend smoker lives next to Cat owner. 11. Horse owner next to Dunhill smoker. 12. Blue Master smoker drinks Beer. 13. German smokes Prince. 14. Norwegian next to Blue house. 15. Blend smoker next to Water drinker. Who owns the fish?",
+    "correct_answer": "German",
+    "metadata": "Constraint Satisfaction - Classic Einstein Riddle."
+  },
+  {
+    "id": 15,
+    "category": "Logic",
+    "question": "On an island of Knights (always tell truth) and Knaves (always lie), A says 'We are both Knaves.' What are A and B?",
+    "correct_answer": "A is a Knave, B is a Knight",
+    "metadata": "Logical Deduction - Knight/Knave puzzles."
+  },
+  {
+    "id": 16,
+    "category": "Logic",
+    "question": "Three boxes are labeled 'Apples', 'Oranges', and 'Apples & Oranges'. All labels are WRONG. You pick one fruit from the 'Apples & Oranges' box. It is an Orange. What are the correct labels for all boxes?",
+    "correct_answer": "Box picked: Oranges. Box labeled Oranges: Apples. Box labeled Apples: Apples & Oranges.",
+    "metadata": "Deduction - Constraint inference."
+  },
+  {
+    "id": 17,
+    "category": "Logic",
+    "question": "Sally has 3 brothers. Each brother has 2 sisters. How many sisters does Sally have?",
+    "correct_answer": "1",
+    "metadata": "Linguistic/Logic - Relationship mapping."
+  },
+  {
+    "id": 18,
+    "category": "Logic",
+    "question": "If all Bloops are Razzies and all Razzies are Lazzies, are all Bloops definitely Lazzies?",
+    "correct_answer": "Yes",
+    "metadata": "Syllogism - Transitive property."
+  },
+  {
+    "id": 19,
+    "category": "Logic",
+    "question": "A farmer needs to cross a river with a wolf, a goat, and a cabbage. He can only take one at a time. If left alone, wolf eats goat, and goat eats cabbage. What is the minimum number of crossings?",
+    "correct_answer": "7",
+    "metadata": "State-space Search - Classic river crossing."
+  },
+
+  {
+    "id": 20,
+    "category": "Game Theory",
+    "question": "In a standard Prisoner's Dilemma, what is the Nash Equilibrium strategy for both players?",
+    "correct_answer": "Both Defect",
+    "metadata": "Equilibrium - Dominant strategy."
+  },
+  {
+    "id": 21,
+    "category": "Game Theory",
+    "question": "In a second-price sealed-bid auction (Vickrey auction), what is the weakly dominant bidding strategy for a player with valuation V?",
+    "correct_answer": "Bid exactly V",
+    "metadata": "Auctions - Truthful bidding incentive."
+  },
+  {
+    "id": 22,
+    "category": "Game Theory",
+    "question": "Two players play a game of Nim with one pile of 21 stones. Each can take 1, 2, or 3 stones. The person who takes the last stone wins. Who wins with optimal play?",
+    "correct_answer": "First player",
+    "metadata": "Combinatorial Games - Winning/Losing positions (21 is not a multiple of 4)."
+  },
+  {
+    "id": 23,
+    "category": "Game Theory",
+    "question": "In a Cournot Duopoly, inverse demand is P = 100 - Q. Marginal cost is 10 for both firms. What is the equilibrium quantity for each firm?",
+    "correct_answer": "30",
+    "metadata": "Economics - Reaction functions and Nash equilibrium."
+  },
+  {
+    "id": 24,
+    "category": "Game Theory",
+    "question": "What is the Mixed Strategy Nash Equilibrium for Rock-Paper-Scissors?",
+    "correct_answer": "Play each with probability 1/3",
+    "metadata": "Probability - Zero-sum games."
+  },
+  {
+    "id": 25,
+    "category": "Game Theory",
+    "question": "In the Centipede Game (100 rounds), where at each step a player can take the larger share or pass it to increase the total pot, what does backward induction predict?",
+    "correct_answer": "The first player takes the pot on the first move",
+    "metadata": "Backward Induction - Rationality paradox."
+  }
+]
