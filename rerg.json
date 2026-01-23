@@ -1,19 +1,6 @@
 [
   {
-    "id": 1,
-    "category": "Math",
-    "question": "In how many ways can you tile a 3x8 rectangle with 2x1 dominoes?",
-    "correct_answer": "71",
-    "metadata": "Combinatorics - requires recursive relation or state-space analysis."
-  },
-  {
     "id": 2,
-    "category": "Math",
-    "question": "What is 15 + 27?",
-    "correct_answer": "42"
-  },
-  {
-    "id": 3,
     "category": "Math",
     "question": "Find the number of positive integers n < 1000 such that the sum of the digits of n is 9.",
     "correct_answer": "55",
